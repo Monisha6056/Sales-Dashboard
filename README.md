@@ -1,1 +1,2 @@
 # Sales-Dashboard
+The Sales Dashboard is an interactive and visually appealing tool built in Microsoft Excel to track and analyze sales performance data efficiently. It provides key insights into sales trends and performance metrics, enabling better decision-making. The dashboard organizes and presents data in an easily understandable format, empowering users to explore and filter sales information based on different parameters.
